@@ -1,3 +1,3 @@
 # baseAlgorithm
-This is base algorithm
+This is base algorithm \n
 yes it is
